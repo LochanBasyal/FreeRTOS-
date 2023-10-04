@@ -28,3 +28,7 @@ To use this project:
 1. Explore the `FreeRTOS.c` file for FreeRTOS implementation details.
 2. Refer to the `main.c` program for latitude and longitude conversion.
 3. Build and run the project according to your development environment and platform requirements.
+
+## License
+
+This project is licensed under the MIT License.
